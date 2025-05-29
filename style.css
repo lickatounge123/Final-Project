@@ -82,3 +82,10 @@ footer {
     color: white;
     font-size: 14px;
 }
+.image {
+    width: 100%;
+    max-width: 250px;
+    height: auto;
+    margin-top: 12px;
+    border-radius: 8px;
+}
