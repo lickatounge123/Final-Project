@@ -89,3 +89,8 @@ footer {
     margin-top: 12px;
     border-radius: 8px;
 }
+
+.card-link {
+    text-decoration: none;
+    color: inherit;
+}
